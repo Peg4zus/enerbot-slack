@@ -6,6 +6,7 @@ source 'https://rubygems.org' do
   gem 'holidays'
   gem 'net-dns'
   gem 'net-ssh'
+  gem 'twitter'
   gem 'nokogiri'
   gem 'passgen'
   gem 'rotp'

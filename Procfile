@@ -1,1 +1,1 @@
-release: ruby client.rb
+release: ruby client.rb bot.rb
